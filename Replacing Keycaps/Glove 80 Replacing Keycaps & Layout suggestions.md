@@ -2,7 +2,8 @@
 Changing the key layout will change the behavior of the keys; however, if you are using labeled keycaps, the labels will no longer match the function of the modified keys.
 Glove80 is designed so that all keys use the same keycap profile, which means the keycaps are freely interchangeable between any two keys.
 
-<img width="600" height="450" src="../../../../../../../_resources/keycap-removal_0e2ec19d1a3a4fe89a891e3f2f63f7af.jpg"/>
+![Removing keycap while holding the keyswitch down](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Replacing%20Keycaps/Replacing%20Keycaps%20-%20Hold%20Down%20Switch.jpg)
+
 **==Removing keycap while holding the keyswitch down==**
 
 Here is how to match the keycaps with the modified key layout:
