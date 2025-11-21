@@ -17,13 +17,14 @@ Try before you buy – complete, risk‑managed, and hassle‑free inside German
 > Your evaluation time is *realistic*: you can test feel, layouts, tenting angle, and keycap ergonomics thoroughly before committing to a purchase.
 
 ## 2. Pricing & Duration
-Item 																		|Amount
----																			|---
-Rental fee (14 calendar days, incl. outbound + return shipping in Germany) 	|45 €
-Refundable safety deposit 													|500 €
-Total upfront (standard 14‑day rental) 										|545 €
-Extensions: 																|1 € per additional calendar day (please request early).
-A purchase discount code 													|10 USD value discount if you buy a Glove80 after the rental
+
+| Item | Amount |
+|------|--------|
+| Rental fee (14 calendar days, incl. outbound + return shipping in Germany) | 45 € |
+| Refundable safety deposit | 500 € |
+| Total upfront (standard 14‑day rental) | 545 € |
+| Extensions | 1 € per additional calendar day (please request early) |
+| A purchase discount code | 10 USD value discount if you buy a Glove80 after the rental |
 
 ## 3. Simple Process (Step by Step)
 1. Send a short request (e.g. “14 days starting 5 Nov”).
