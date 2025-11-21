@@ -5,7 +5,8 @@ Try before you buy – complete, risk‑managed, and hassle‑free inside German
 **All-in 14‑Day Test Bundle (Value ≈ 600 €):**
 - Glove 80 ergonomic split keyboard (both halves, fully functional)
 - Switch tester: 15 Kailh low‑profile switch types  
-  ➡️ Details & photos: [Switch & Keycap Spreadsheet](https://docs.google.com/spreadsheets/d/1QJszu-rnmIEtVyBiQqmqkUYhwVx2hHf4/edit?usp=sharing) · [Photo Gallery](https://drive.google.com/drive/folders/1aTVMSclvwQ6MWrxKdXa-s_PTiJp6sbbs?usp=drive_link)
+  ➡️ Details of individual switch configurations of the Glove80 rental units: [Switch & Keycap Spreadsheet](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Configuration%20Glove80%20Demo%20Rental%20Unit%20(Customer%20overview).xlsx)
+- Photos:  [Photo Gallery](#16-photos-of-demo-unit--accessories)
 - Large assortment of keycaps (materials, profiles, shapes, black & white)  
   ➡️ Same links as above
 - Multiple USB cables
