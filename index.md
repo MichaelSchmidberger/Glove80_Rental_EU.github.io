@@ -5,7 +5,7 @@ Try before you buy – complete, risk‑managed, and hassle‑free inside German
 **All-in 14‑Day Test Bundle (Value ≈ 600 €):**
 - Glove 80 ergonomic split keyboard (both halves, fully functional)
 - Switch tester: 15 Kailh low‑profile switch types  
-  ➡️ Details of individual switch configurations of the Glove80 rental units: [Switch & Keycap Spreadsheet](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Configuration%20Glove80%20Demo%20Rental%20Unit%20(Customer%20overview).xlsx)
+  ➡️ Details of individual switch configurations of the Glove80 rental units: [Switch & Keycap Spreadsheet](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/raw/main/Configuration%20Glove80%20Demo%20Rental%20Unit%20(Customer%20overview).xlsx)
 - Photos:  [Photo Gallery](#16-photos-of-demo-unit--accessories)
 - Large assortment of keycaps (materials, profiles, shapes, black & white)  
   ➡️ Same links as above
@@ -43,17 +43,17 @@ BIC                                 |BYLADEM1001
 Bank                                |Deutsche Kreditbank
 Amount (14 days - includes Deposit) |545 €
 
-### Option 2 – PayPal “Friends & Family”
+### Option 2 – PayPal "Friends & Family"
 Please use the option "Friends & Family". 
-Paypal username                     			|Michael.Schmidberger@gmail.com
+Paypal username                     			|[Michael.Schmidberger@gmail.com](mailto:Michael.Schmidberger@gmail.com)
 ---												|---
 Paypal.me direct link							|paypal.me/MiSchmidberger |
 Amount (14 days - includes Deposit)  			|545 €
 
-### Option 3 – PayPal “Goods & Services”
+### Option 3 – PayPal "Goods & Services"
 If you prefer the option "Goods & Services", that is fine, but please note that PayPal demands a fee of approximately 15 € for this option, which I unfortunately have to pass on to you.
 
-Paypal username                     			|Michael.Schmidberger@gmail.com
+Paypal username                     			|[Michael.Schmidberger@gmail.com](mailto:Michael.Schmidberger@gmail.com)
 ---												|---
 Paypal.me direct link							|paypal.me/MiSchmidberger |
 Amount (14 days - includes Deposit)  			|560 €
@@ -137,23 +137,23 @@ Send your desired start date now and secure your testing slot.
 
 
 ## 16. Photos of Demo Unit & Accessories
-![01 Overview](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/01%20Overview.jpg)
+![01 Overview](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/01%20Overview.jpg)
 
-![02 Switch Tester](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/02%20Switch%20Tester.jpg)
+![02 Switch Tester](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/02%20Switch%20Tester.jpg)
 
-![03 Glove80 Left Half - Top](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/03%20Glove80%20Left%20Half%20-%20Top.jpg)
+![03 Glove80 Left Half - Top](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/03%20Glove80%20Left%20Half%20-%20Top.jpg)
 
-![04 Glove80 Right Half - Top](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/04%20Glove80%20Right%20Half%20-%20Top.jpg)
+![04 Glove80 Right Half - Top](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/04%20Glove80%20Right%20Half%20-%20Top.jpg)
 
-![06 Glove80 Left Half - Bottom](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/06%20Glove80%20Left%20Half%20-%20Bottom.jpg)
+![06 Glove80 Left Half - Bottom](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/06%20Glove80%20Left%20Half%20-%20Bottom.jpg)
 
-![06 Glove80 Right Half - Bottom](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/06%20Glove80%20Right%20Half%20-%20Bottom.jpg)
+![06 Glove80 Right Half - Bottom](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/06%20Glove80%20Right%20Half%20-%20Bottom.jpg)
 
-![12 Keycaps (Bottles)](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/12%20Keycaps%20(Bottles).jpg)
+![12 Keycaps (Bottles)](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/12%20Keycaps%20(Bottles).jpg)
 
-![12 Keycaps MCC MBK Convex Concave etc (Bags)](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/12%20Keycaps%20MCC%20MBK%20Convex%20Concave%20etc%20(Bags).jpg)
+![12 Keycaps MCC MBK Convex Concave etc (Bags)](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/12%20Keycaps%20MCC%20MBK%20Convex%20Concave%20etc%20(Bags).jpg)
 
-![14 USB-Cables & Tenting Screws](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/14%20USB-Cables%20%26%20Tenting%20Screws.jpg)
+![14 USB-Cables & Tenting Screws](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/14%20USB-Cables%20%26%20Tenting%20Screws.jpg)
 
 ---
 
