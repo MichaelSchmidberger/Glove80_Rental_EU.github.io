@@ -66,7 +66,7 @@ If you prefer the option "Goods & Services", that is fine, but please note that 
 ## 5. Proper Keycap Handling (Important – Prevent Damage)
 When removing keycaps: **Press and hold the key switch stem down while gently pulling the keycap upward.**  
 Detailed illustrated guidance (especially for German layout experimentation):  
-[Glove 80 Replacing Keycaps & Layout Suggestions (German users)](https://michaelschmidberger.github.io/Glove80_Rental_EU.github.io/Replacing%20Keycaps/Glove%2080%20Replacing%20Keycaps%20%26%20Layout%20suggestions.html)
+[Glove 80 Replacing Keycaps & Layout Suggestions (German users)](https://michaelschmidberger.github.io/Glove80_Rental_EU.github.io/Replacing%20Keycaps/Glove%2080%20Replacing%20Keycaps%20%26%20Layout%20suggestions)
 
 ## 6. Booking Message Template
 You can copy/paste:  
