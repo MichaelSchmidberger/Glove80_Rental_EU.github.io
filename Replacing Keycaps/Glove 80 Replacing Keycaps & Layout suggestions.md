@@ -23,7 +23,7 @@ If the keycap you need to remove is surrounded by other keys, you may have to fi
 # Layout suggestions
 German language poses a few unique challenges on keyboards with minimalistic number of keys as German has additional characters (ä, ö, ü, ß), which ideally should still fit on the base layer for efficient typing. These are just general ideas that I found work quite well for me - maybe a good starting point for new users:
 
-https://my.glove80.com/#/layout/user/988fd481-6689-4d6b-a253-6faaa49de7b5
+[Glove80 Demo configuration for German users](https://my.glove80.com/#/layout/user/988fd481-6689-4d6b-a253-6faaa49de7b5)
 
 Note that this layout comprises multiple layout suggestions including Noted & QWERTZ the can be permanently activated with with the keyboard shortcut "Magic + specifier key"
 
@@ -32,15 +32,15 @@ Note that this layout comprises multiple layout suggestions including Noted & QW
 ## Choice of Layout for Alphabetical characters
 There is a lot of literature on ideal layouts, but what is ideal for you depends on your use-case. While testing the Glove 80 rental unit, I would suggest you **do not learn a new alphabetical layout while testing a new keyboard**. Stick to something familiar like QWERTZ. Getting adjusted to the shape of the keyboard & learning to use layers is challenging in itself and you will need a few weeks to months just for that.
 
-Then once you're ready you can upgrade your alpha layout. I find "Noted" extremely powerful for German & English mixture:
-https://neo-layout.org/Layouts/noted/
+Then once you're ready you can upgrade your alpha layout. I find ["Noted"](https://neo-layout.org/Layouts/noted/) extremely powerful for a mixture of German & English language typing!
+
 
 # Typing training
 For learning to type:
-Start out with:  https://www.keybr.com/
+Start out with:  [keybr](https://www.keybr.com/)
 
 If you want to progress further:
-https://monkeytype.com/
+[mokeytype](https://monkeytype.com/)
 
 If you want some fun (not a serious typing trainer, but quite fun):
-https://store.steampowered.com/app/3533730/Warhammer_40000_Boltgun__Words_of_Vengeance/
+[Warhammer 40k: Boltgun - Words of Vengeance](https://store.steampowered.com/app/3533730/Warhammer_40000_Boltgun__Words_of_Vengeance/)
