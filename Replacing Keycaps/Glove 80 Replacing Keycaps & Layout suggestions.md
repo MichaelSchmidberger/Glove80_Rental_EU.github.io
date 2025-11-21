@@ -26,7 +26,9 @@ German language poses a few unique challenges on keyboards with minimalistic num
 https://my.glove80.com/#/layout/user/988fd481-6689-4d6b-a253-6faaa49de7b5
 
 Note that this layout comprises multiple layout suggestions including Noted & QWERTZ the can be permanently activated with with the keyboard shortcut "Magic + specifier key"
-![3fb3904b708c90c93abab8af5498ef02.png](../../../../../../../_resources/3fb3904b708c90c93abab8af5498ef02.png){width=800}
+
+![Magic-Key Layers](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Replacing%20Keycaps/Magic-Key%20Layers.png)
+
 ## Choice of Layout for Alphabetical characters
 There is a lot of literature on ideal layouts, but what is ideal for you depends on your use-case. While testing the Glove 80 rental unit, I would suggest you **do not learn a new alphabetical layout while testing a new keyboard**. Stick to something familiar like QWERTZ. Getting adjusted to the shape of the keyboard & learning to use layers is challenging in itself and you will need a few weeks to months just for that.
 
