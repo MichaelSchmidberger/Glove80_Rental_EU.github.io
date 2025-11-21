@@ -64,8 +64,6 @@ If you prefer the option "Goods & Services", that is fine, but please note that 
 | Paypal.me direct link | [paypal.me/MiSchmidberger](https://www.paypal.com/paypalme/mischmidberger) |
 | Amount (14 days - includes Deposit) | 560 € |
 
----
-
 ## 5. Proper Keycap Handling (Important – Prevent Damage)
 When removing keycaps: **Press and hold the key switch stem down while gently pulling the keycap upward.**  
 Detailed illustrated guidance (especially for German layout experimentation):  
