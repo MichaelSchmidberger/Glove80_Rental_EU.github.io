@@ -36,34 +36,39 @@ A purchase discount code 													|10 USD value discount if you buy a Glove8
 
 ## 4. Payment Options
 ### Option 1 – SEPA Bank Transfer (Preferred, No Fees)
-Account holder	                    | Michael Schmidberger
----									|---
-IBAN                                |DE21 1203 0000 0012 3895 65          
-BIC                                 |BYLADEM1001                         
-Bank                                |Deutsche Kreditbank
-Amount (14 days - includes Deposit) |545 €
+
+| Field | Details |
+|-------|--------|
+| Account holder | Michael Schmidberger |
+| IBAN | DE21 1203 0000 0012 3895 65 |
+| BIC | BYLADEM1001 |
+| Bank | Deutsche Kreditbank |
+| Amount (14 days - includes Deposit) | 545 € |
 
 ### Option 2 – PayPal "Friends & Family"
-Please use the option "Friends & Family". 
-Paypal username                     			|[Michael.Schmidberger@gmail.com](mailto:Michael.Schmidberger@gmail.com)
----												|---
-Paypal.me direct link							|paypal.me/MiSchmidberger |
-Amount (14 days - includes Deposit)  			|545 €
+Please use the option "Friends & Family".
+
+| Field | Details |
+|-------|--------|
+| Paypal username | [Michael.Schmidberger@gmail.com](mailto:Michael.Schmidberger@gmail.com) |
+| Paypal.me direct link | [paypal.me/MiSchmidberger](https://www.paypal.com/paypalme/mischmidberger) |
+| Amount (14 days - includes Deposit) | 545 € |
 
 ### Option 3 – PayPal "Goods & Services"
 If you prefer the option "Goods & Services", that is fine, but please note that PayPal demands a fee of approximately 15 € for this option, which I unfortunately have to pass on to you.
 
-Paypal username                     			|[Michael.Schmidberger@gmail.com](mailto:Michael.Schmidberger@gmail.com)
----												|---
-Paypal.me direct link							|paypal.me/MiSchmidberger |
-Amount (14 days - includes Deposit)  			|560 €
+| Field | Details |
+|-------|--------|
+| Paypal username | [Michael.Schmidberger@gmail.com](mailto:Michael.Schmidberger@gmail.com) |
+| Paypal.me direct link | [paypal.me/MiSchmidberger](https://www.paypal.com/paypalme/mischmidberger) |
+| Amount (14 days - includes Deposit) | 560 € |
 
 ---
 
 ## 5. Proper Keycap Handling (Important – Prevent Damage)
 When removing keycaps: **Press and hold the key switch stem down while gently pulling the keycap upward.**  
 Detailed illustrated guidance (especially for German layout experimentation):  
-[Glove 80 Replacing Keycaps & Layout Suggestions (German users)](https://drive.google.com/file/d/1vcNeN_9wMRtPjEglgxDQMHUvV52NQMOf/view?usp=drive_link)
+[Glove 80 Replacing Keycaps & Layout Suggestions (German users)](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Glove%2080%20Replacing%20Keycaps%20%26%20Layout%20suggestions.md)
 
 ## 6. Booking Message Template
 You can copy/paste:  
