@@ -138,7 +138,10 @@ Send your desired start date now and secure your testing slot.
 ## 16. Photos of Demo Unit & Accessories
 (Embedded images as provided in original document.)
 
-![14 USB-Cables & Tenting Screws.jpg](../../../../../../../_resources/14%20USB-Cables%20&%20Tenting%20Screws.jpg) ![12 Keycaps MCC MBK Convex Concave etc (Bags).jpg](../../../../../../../_resources/12%20Keycaps%20MCC%20MBK%20Convex%20Concave%20etc%20%28Bags%29.jpg) ![12 Keycaps (Bottles).jpg](../../../../../../../_resources/12%20Keycaps%20%28Bottles%29.jpg) ![06 Glove80 Right Half - Bottom.jpg](../../../../../../../_resources/06%20Glove80%20Right%20Half%20-%20Bottom.jpg) ![06 Glove80 Left Half - Bottom.jpg](../../../../../../../_resources/06%20Glove80%20Left%20Half%20-%20Bottom.jpg) ![04 Glove80 Right Half - Top.jpg](../../../../../../../_resources/04%20Glove80%20Right%20Half%20-%20Top.jpg) ![03 Glove80 Left Half - Top.jpg](../../../../../../../_resources/03%20Glove80%20Left%20Half%20-%20Top.jpg) ![02 Switch Tester.jpg](../../../../../../../_resources/02%20Switch%20Tester.jpg) ![01 Overview.jpg](../../../../../../../_resources/01%20Overview.jpg)
+![Overview](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Photos/01%20Overview.jpg)
+
+
+
 
 ---
 
