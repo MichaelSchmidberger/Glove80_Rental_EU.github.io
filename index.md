@@ -8,7 +8,6 @@ Try before you buy – complete, risk‑managed, and hassle‑free inside German
   ➡️ Details of individual switch configurations of the Glove80 rental units: [Switch & Keycap Spreadsheet](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/raw/main/Configuration%20Glove80%20Demo%20Rental%20Unit%20(Customer%20overview).xlsx)
 - Photos:  [Photo Gallery](#16-photos-of-demo-unit--accessories)
 - Large assortment of keycaps (materials, profiles, shapes, black & white)  
-  ➡️ Same links as above
 - Multiple USB cables
 - Travel / protection case
 - Prepaid return shipping label (no extra cost)
@@ -67,7 +66,7 @@ If you prefer the option "Goods & Services", that is fine, but please note that 
 ## 5. Proper Keycap Handling (Important – Prevent Damage)
 When removing keycaps: **Press and hold the key switch stem down while gently pulling the keycap upward.**  
 Detailed illustrated guidance (especially for German layout experimentation):  
-[Glove 80 Replacing Keycaps & Layout Suggestions (German users)](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/blob/main/Glove%2080%20Replacing%20Keycaps%20%26%20Layout%20suggestions.md)
+[Glove 80 Replacing Keycaps & Layout Suggestions (German users)](https://michaelschmidberger.github.io/Glove80_Rental_EU.github.io/Replacing%20Keycaps/Glove%2080%20Replacing%20Keycaps%20%26%20Layout%20suggestions.html)
 
 ## 6. Booking Message Template
 You can copy/paste:  
@@ -118,7 +117,9 @@ A: Standard carrier insurance is used; if you need higher coverage, ask before s
 - Store unused keycaps/switch testers in their bags.
 - Keep original packing materials for easy, safe return.
 
-## 13. Contact - Don't hesitate to ask me anything that helps you in your journey towards a better typing experience.
+## 13. Contact
+Don't hesitate to ask me anything that helps you in your journey towards a better typing experience.
+
 - Email: [Michael.Schmidberger@gmail.com](mailto:Michael.Schmidberger@gmail.com)  
 - Discord: virus5825  
 
