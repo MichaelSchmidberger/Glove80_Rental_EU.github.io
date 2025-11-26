@@ -40,7 +40,7 @@ For learning to type:
 Start out with:  [keybr](https://www.keybr.com/)
 
 If you want to progress further:
-[mokeytype](https://monkeytype.com/)
+[monkeytype](https://monkeytype.com/)
 
 If you want some fun (not a serious typing trainer, but quite fun):
 [Warhammer 40k: Boltgun - Words of Vengeance](https://store.steampowered.com/app/3533730/Warhammer_40000_Boltgun__Words_of_Vengeance/)
