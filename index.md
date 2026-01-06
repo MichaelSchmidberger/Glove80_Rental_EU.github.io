@@ -1,12 +1,13 @@
-# Glove 80 Premium Test Rental  
+# Moergo Glove 80 or Go 60 Premium Test Rental  
 Try before you buy – complete, risk‑managed, and hassle‑free inside Germany & the European Union
 
 ## 1. What You Get (High-Value Package)
 **All-in 14‑Day Test Bundle (Value ≈ 600 €):**
-- Glove 80 ergonomic split keyboard (both halves, fully functional)
+- [Glove80](https://www.moergo.com/collections/glove80-keyboards) ergonomic split keyboard (both halves, fully functional) or
+- [Go60](https://www.moergo.com/collections/go60-keyboards) ergonomic small form factor keyboard (both halves, palm rest etc.)
 - Switch tester: 15 Kailh low‑profile switch types  
   ➡️ Details of individual switch configurations of the Glove80 rental units: [Switch & Keycap Spreadsheet](https://github.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/raw/main/Configuration%20Glove80%20Demo%20Rental%20Unit%20(Customer%20overview).xlsx)
-- Photos:  [Photo Gallery](#16-photos-of-demo-unit--accessories)
+- Photos:  [Photo Gallery](Photos/Gallery.md)
 - Large assortment of keycaps (materials, profiles, shapes, black & white)  
 - Multiple USB cables
 - Travel / protection case
@@ -29,6 +30,14 @@ Try before you buy – complete, risk‑managed, and hassle‑free inside German
 1. Send a short request (e.g. “14 days starting 5 Nov”).
 2. Receive confirmation of provisional availability.
 3. Transfer 545 € (deposit + rental) to lock in the slot (reservation is final only after funds are received).
+4. Provide all important information:
+  - Desired rental unit type (Glove80 or Go60)
+  - Delivery Address including your full name
+  - Your E-Mail Address for tracking alerts
+  - (Approximate) desired rental duration in weeks (e.g. 6-8 weeks)
+  - Desired refund method for deposit. Options:
+    - Paypal.me-link (please send a working Paypal.me-link - not just your E-Mail address as this has caused issues in the past)
+    - IBAN & full name
 4. Keyboard ships to your address; you test for 14 days or longer if required
 5. A few days before the end, you receive the prepaid return label (email or Discord).
 6. Pack securely, attach label, drop off / hand over.
@@ -92,25 +101,7 @@ References from prior renters are available upon request (just ask).
 I am responsive and transparent—reach out anytime.
 
 ## 11. FAQ
-**Q: When does the 14‑day period start?**  
-A: The day the parcel is first attempted for delivery (or the day you collect it if held at a point).  
-
-**Q: What if a switch feels different / scratchy?**  
-A: That is intentional: the variety helps you decide preferences before ordering your own build.  
-
-**Q: Can I try alternative layouts (e.g. German special characters)?**  
-A: Yes—experiment freely; just follow the keycap removal guide to avoid switch stress.  
-
-**Q: What if something arrives damaged?**  
-A: Photograph immediately and contact me—this protects both sides.  
-
-**Q: Is cleaning required before return?**  
-A: Basic dust removal only. Do not use solvents or alcohol on keycaps or casings.  
-
-**Q: Can I insure the shipment more?**  
-A: Standard carrier insurance is used; if you need higher coverage, ask before shipment.  
-
----
+For answers to frequently asked questions, please see: [FAQ](FAQ.md)
 
 ## 12. Good Practice During Your Trial
 - Avoid eating directly over the keyboard.
@@ -139,27 +130,6 @@ Fragen? Einfach melden per E-Mail oder Discord.
 ## 15. Call to Action
 Ready to experience the Glove 80 properly—without guesswork?  
 Send your desired start date now and secure your testing slot.
-
-
-## 16. Photos of Demo Unit & Accessories
-![01 Overview](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/01%20Overview.jpg)
-
-![02 Switch Tester](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/02%20Switch%20Tester.jpg)
-
-![03 Glove80 Left Half - Top](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/03%20Glove80%20Left%20Half%20-%20Top.jpg)
-
-![04 Glove80 Right Half - Top](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/04%20Glove80%20Right%20Half%20-%20Top.jpg)
-
-![06 Glove80 Left Half - Bottom](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/06%20Glove80%20Left%20Half%20-%20Bottom.jpg)
-
-![06 Glove80 Right Half - Bottom](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/06%20Glove80%20Right%20Half%20-%20Bottom.jpg)
-
-![12 Keycaps (Bottles)](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/12%20Keycaps%20(Bottles).jpg)
-
-![12 Keycaps MCC MBK Convex Concave etc (Bags)](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/12%20Keycaps%20MCC%20MBK%20Convex%20Concave%20etc%20(Bags).jpg)
-
-![14 USB-Cables & Tenting Screws](https://raw.githubusercontent.com/MichaelSchmidberger/Glove80_Rental_EU.github.io/main/Photos/14%20USB-Cables%20%26%20Tenting%20Screws.jpg)
-
 ---
 
 ## 17. Legal / Notes
