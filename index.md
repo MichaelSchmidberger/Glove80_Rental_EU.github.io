@@ -36,8 +36,8 @@ Try before you buy – complete, risk‑managed, and hassle‑free inside German
   - Your E-Mail Address for tracking alerts
   - (Approximate) desired rental duration in weeks (e.g. 6-8 weeks)
   - Desired refund method for deposit. Options:
-    - Paypal.me-link (please send a working Paypal.me-link - not just your E-Mail address as this has caused issues in the past)
-    - IBAN & full name
+      - Paypal.me-link (please send a working Paypal.me-link - not just your E-Mail address as this has caused issues in the past)
+      - IBAN & full name
 4. Keyboard ships to your address; you test for 14 days or longer if required
 5. A few days before the end, you receive the prepaid return label (email or Discord).
 6. Pack securely, attach label, drop off / hand over.
